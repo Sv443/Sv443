@@ -27,4 +27,4 @@ If you don't have Discord, you can also [send me an E-Mail.](mailto:contact@sv44
 
 ### Support me:
 My projects are free and open source so I rely on donations to keep my services running.  
-If you want to support me, please go to my [GitHub Sponsors page.](https://github.com/sponsors/Sv443).  
+If you want to support me, please go to my [GitHub Sponsors page](https://github.com/sponsors/Sv443).  
