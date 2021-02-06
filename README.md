@@ -11,7 +11,7 @@ I'm up for collaboration, so if you have an interesting project in mind, feel fr
 
 
 ### What I'm currently working on:
-- [JokeAPI](https://github.com/Sv443/JokeAPI), which is an API that (basically) serves jokes. It is currently my most used project and the one I am dedicating the most time towards ([read more](https://sv443.net/jokeapi/v2)).
+- [JokeAPI](https://github.com/Sv443/JokeAPI), which is an API that (basically) serves jokes. It is currently my most used project and the one I am dedicating the most time to ([read more](https://jokeapi.dev)).
 - [sBot](https://github.com/Sv443/sBot) - my main Discord bot. It can do a lot of stuff, from moderation to some fun little features ([more info](https://sv443.net/r/sBot)).
 - [SvCoreLib](https://github.com/Sv443/SvCoreLib), which is a Node.js package that is used in basically all of my JavaScript projects. It also contains many miscellaneous features.  
   
