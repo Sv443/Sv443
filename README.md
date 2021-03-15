@@ -11,7 +11,7 @@ I'm up for collaboration, so if you have an interesting project in mind, feel fr
 
 
 ### What I'm currently working on:
-- [JokeAPI](https://github.com/Sv443/JokeAPI), which is an API that (basically) serves jokes. It is currently my most used project and the one I am dedicating the most time to [(read more)](https://jokeapi.dev)
+- [JokeAPI](https://github.com/Sv443/JokeAPI), which is an API that serves jokes. It is my most used project and the one I am dedicating the most time to [(read more)](https://jokeapi.dev)
 - [Townly](https://github.com/Sv443/Townly) - I've challenged myself to create a city building game in the command line, with an accompanying game engine, [Teng.](https://github.com/Sv443/Teng)
 - [sBot](https://github.com/Sv443/sBot) - my main Discord bot. It can do a lot of stuff, from moderation to some fun little features [(more info)](https://sv443.net/r/sBot)
 - [SvCoreLib](https://github.com/Sv443/SvCoreLib), which is a Node.js package that is used in basically all of my JavaScript projects. It also contains many miscellaneous features.
