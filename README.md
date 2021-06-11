@@ -8,14 +8,17 @@ Most of my projects are made with Node.js, nginx, Linux, Arduino or Qt Creator.
 Although I love working in a familiar environment, I'm always open to try out new technologies and want to continue learning and improving my skills.  
   
 I'm up for collaboration, so if you have an interesting project in mind, feel free to contact me :)  
-
-
+  
+Don't contact me with job offers or unsolicited or shady business, you will be ignored.  
+  
+  
 ### What I'm currently working on:
 - [JokeAPI](https://github.com/Sv443/JokeAPI), which is an API that serves jokes. It is my most used project and the one I am dedicating the most time to [(read more)](https://jokeapi.dev)
 - [Townly](https://github.com/Sv443/Townly) - I've challenged myself to create a city building game in the command line, with an accompanying game engine, [Teng.](https://github.com/Sv443/Teng)
 - [SvCoreLib](https://github.com/Sv443/SvCoreLib), which is a Node.js package that is used in basically all of my JavaScript projects. It also contains many miscellaneous features.
   
-If you want to reach me, you can [join my Discord server](https://sv443.net/discord) or [send me an E-Mail.](mailto:contact@sv443.net)  
+If you want to reach out to me, you can [join my Discord server](https://dc.sv443.net/) or [send me an E-Mail.](mailto:contact@sv443.net)  
+  
 My projects are free and open source so I rely on donations to keep my services running.  
 If you want to support me, please go to my [GitHub Sponsors page](https://github.com/sponsors/Sv443).  
   
