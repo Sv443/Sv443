@@ -1,16 +1,14 @@
 <!-- Pro Tip: to create a page like this just create a public repo with your username as its name :) -->
 
 ### Hi there, I'm Sv443,
-but you can call me Sven 😃  
-I am an 19 year old Full Stack Developer from [Stuttgart, Germany.](https://goo.gl/maps/fnQBaP3c9xpkwVnt9)  
+real name being Sven 😃  
+I am a 19 year old Full Stack Developer from [Stuttgart, Germany.](https://goo.gl/maps/fnQBaP3c9xpkwVnt9)  
 My interests are in open source software, server and web development and hardware.  
-Most of my projects are made with Node.js, nginx, Linux, Arduino or Qt Creator.  
+Most of my projects are made with Node.js, nginx, Linux, Arduino or C++.  
 Although I love working in a familiar environment, I'm always open to try out new technologies and want to continue learning and improving my skills.  
   
-I'm up for collaboration, so if you have an interesting project in mind, feel free to contact me :)  
-  
-Don't contact me with job offers or unsolicited or shady business, you will be ignored.  
-  
+Please don't contact me with job offers, shady business requests or otherwise unsolicited messages, you will be ignored.  
+To the chinese companies reaching out to me: I'm not a fucking general manager so stop pitching your products to me.  
   
 ### What I'm currently working on:
 - [JokeAPI](https://github.com/Sv443/JokeAPI), which is an API that serves jokes. It is my most used project and the one I am dedicating the most time to [(read more)](https://jokeapi.dev)
