@@ -26,4 +26,4 @@ To the chinese companies reaching out to me: I'm not a fucking general manager s
 
 ---
 
-[npm](https://www.npmjs.com/~sv443) • [itch.io](https://sv443.itch.io/) • [LinkedIn](https://www.linkedin.com/in/sven-fehler/) • [CodersRank](https://profile.codersrank.io/user/sv443)  
+Here are some links: [npm](https://www.npmjs.com/~sv443) • [itch.io](https://sv443.itch.io/) • [LinkedIn](https://www.linkedin.com/in/sven-fehler/) • [CodersRank](https://profile.codersrank.io/user/sv443)  
