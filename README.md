@@ -15,7 +15,7 @@ Although I love working in a familiar environment, I'm always open to try out ne
 ---
 
 My projects are free and open source so I rely on donations to keep my services running.  
-If you want to support me, please go to my [GitHub Sponsors page](https://github.com/sponsors/Sv443).  
+Please consider supporting me on my [GitHub Sponsors page.](https://github.com/sponsors/Sv443)  
 
 ---
 
