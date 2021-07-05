@@ -20,6 +20,7 @@ If you like what I do, please consider [supporting me.](https://github.com/spons
 ---
 
 If you want to reach out to me, you can [join my Discord server](https://dc.sv443.net/) or [send me an E-Mail.](mailto:contact@sv443.net)  
+  
 To verify my identity on GitHub, you can refer to my [GPG keys.](https://github.com/Sv443/GPG)
   
 Please don't contact me with job offers, shady business requests or otherwise unsolicited messages, you will be ignored.  
