@@ -10,7 +10,7 @@ Although I love working in a familiar environment, I'm always open to try out ne
 ### What I'm currently working on:
 - [JokeAPI](https://github.com/Sv443/JokeAPI), which is an API that serves jokes. It is my most used project and the one I am dedicating the most time to [(read more)](https://jokeapi.dev)
 - [Townly](https://github.com/Sv443/Townly) - I've challenged myself to create a city building game in the command line, with an accompanying game engine, [Teng.](https://github.com/Sv443/Teng)
-- [SvCoreLib](https://github.com/Sv443/SvCoreLib), which is a Node.js package that is used in basically all of my JavaScript projects. It also contains many miscellaneous features.
+- [SvCoreLib](https://github.com/Sv443-Network/SvCoreLib), which is a Node.js package that is used in basically all of my JavaScript projects. It also contains many miscellaneous features.
 
 ---
 
