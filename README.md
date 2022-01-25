@@ -11,6 +11,7 @@ Although I love working in a familiar environment, I'm always open to try out ne
 <!-- - [Townly](https://github.com/Sv443/Townly) - I've challenged myself to create a city building game in the command line, with an accompanying game engine, [Teng.](https://github.com/Sv443/Teng)
 -->
 - [SvCoreLib](https://github.com/Sv443-Network/SvCoreLib), which is a Node.js package that is used in basically all of my JavaScript projects. It also contains many miscellaneous features.
+- [BetterYTM](https://github.com/Sv443/BetterYTM), a userscript that improves the website YouTube Music
 
 ---
 
