@@ -1,7 +1,7 @@
 <!-- Pro Tip: to create a page like this just create a public repo with your username as its name :) -->
 
 ### Hi there, I'm Sv443
-I am a 19 year old Full Stack Developer from Germany.  
+I am a 20 year old Full Stack Developer from Germany.  
 My interests are in open source software, server and web development and hardware.  
 Most of my projects are made with or for Node.js, nginx, Linux, Arduino or C++.  
 Although I love working in a familiar environment, I'm always open to try out new technologies and want to continue learning and improving my skills.  
