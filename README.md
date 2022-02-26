@@ -3,7 +3,7 @@
 ### Hi there, I'm Sv443
 I am a 20 year old Full Stack Developer from Germany.  
 My interests are in open source software, server and web development and hardware.  
-Most of my projects are made with or for Node.js, nginx, Linux, Arduino or C++.  
+Most of my projects are made with or for Node.js, Linux, Arduino or C++.  
 Although I love working in a familiar environment, I'm always open to try out new technologies and want to continue learning and improving my skills.  
   
 ### What I'm currently working on:
@@ -16,8 +16,8 @@ Although I love working in a familiar environment, I'm always open to try out ne
 
 ---
 
-My projects are free and open source so I rely on donations to keep my services running.  
-If you like what I do, please consider [supporting me.](https://github.com/sponsors/Sv443)  
+My projects are free and open source so I rely on donations to keep my servers and domains running.  
+So if you like what I do, please consider [supporting me.](https://github.com/sponsors/Sv443) I appreciate it a lot <3  
 
 ---
 
