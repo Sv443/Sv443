@@ -20,7 +20,7 @@ So if you like what I do, please consider [supporting me.](https://github.com/sp
   
 Thanks to these awesome people for supporting:  
 
-<img src="https://github.com/CrazyMarvin.png" width="50" height="50" />
+<a href="https://github.com/CrazyMarvin" title="CrazyMarvin"><img src="https://github.com/CrazyMarvin.png" width="50" height="50" /></a>
 
 ---
 
