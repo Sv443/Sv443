@@ -10,6 +10,7 @@ Although I love working in a familiar environment, I'm always open to try out ne
 - [JokeAPI](https://github.com/Sv443/JokeAPI), as the name implies, is an API that serves jokes [(read more)](https://jokeapi.dev)
 - [SvCoreLib](https://github.com/Sv443-Network/SvCoreLib), which is a Node.js package that is used in basically all of my JavaScript projects. It contains many miscellaneous features
 - [BetterYTM](https://github.com/Sv443/BetterYTM), a userscript that improves the website YouTube Music with various features and UX improvements
+- [geniURL](https://github.com/Sv443/geniURL), which is a small music metadata API
 <!-- - [Townly](https://github.com/Sv443/Townly) - I've challenged myself to create a city building game in the command line, with an accompanying game engine, [Teng.](https://github.com/Sv443/Teng)
 -->
 
