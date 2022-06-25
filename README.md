@@ -17,9 +17,9 @@ Although I love working in a familiar environment, I'm always open to try out ne
 ---
 
 My projects are free and open source so I rely on donations to keep my servers and domains running.  
-So if you like what I do, please consider [supporting me.](https://github.com/sponsors/Sv443) I appreciate it a lot <3  
+So if you like what I do, please consider [supporting my development.](https://github.com/sponsors/Sv443)  
   
-Thanks to these awesome people for supporting:  
+Massive thanks to my sponsors ❤  
 
 <a href="https://github.com/CrazyMarvin" title="CrazyMarvin"><img src="https://github.com/CrazyMarvin.png" width="50" height="50" /></a>
 
