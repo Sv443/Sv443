@@ -26,7 +26,7 @@ Massive thanks to my sponsors ❤
 ---
 
 If you want to reach out to me, you can [join my Discord server](https://dc.sv443.net/) or [send me an E-Mail.](mailto:%63%6F%6E%74%61%63%74%40%73%76%34%34%33%2E%6E%65%74)  
-<sub><b>Please don't contact me with any job offers, shady business requests or otherwise unsolicited messages, you will be ignored.</b></sub>
+<sub><b>Please don't contact me with any job offers or shady business requests, you will be ignored.</b></sub>
 
 ---
 
