@@ -1,7 +1,7 @@
 <!-- Pro Tip: to create a page like this just create a public repo with your username as its name :) -->
 
 ### Hi there, I'm Sven
-I am a 20 year old full stack developer from Germany.  
+I am a 21 year old full stack developer from Germany.  
 My interests are in open source software, server and web development, as well as PC and server hardware and IT infrastructure.  
 Most of my projects are made with or for Javascript, Linux and Arduino.  
 Although I love working in a familiar environment, I'm always open to try out new technologies and want to continue learning and improving my skills.  
