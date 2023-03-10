@@ -15,7 +15,7 @@ Although I love working in a familiar environment, I'm always open to try out ne
 My projects are free and open source so I rely on donations to keep my servers and domains running.  
 So if you like what I do, please consider [supporting my development.](https://github.com/sponsors/Sv443)  
   
-<!-- TODO:  -->
+<!-- TODO: add this workflow https://github.com/JamesIves/github-sponsors-readme-action -->
 <!-- Massive thanks to my sponsors ❤  
 
 <a href="https://github.com/CrazyMarvin" title="CrazyMarvin"><img src="https://github.com/CrazyMarvin.png" width="50" height="50" /></a>
