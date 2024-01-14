@@ -29,4 +29,4 @@ If you want to reach out to me, you can [join my Discord server](https://dc.sv44
 <br>
 
 > ---
-> ### Links: [Homepage](https://sv443.net/) &bull; [npm](https://www.npmjs.com/~sv443) &bull; [CodersRank](https://profile.codersrank.io/user/sv443)  
+> ### Links: [Homepage](https://sv443.net/) &bull; [npm](https://www.npmjs.com/~sv443)
