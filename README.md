@@ -9,7 +9,7 @@ Although I love working in a familiar environment, I'm always open to try out ne
 - [BetterYTM](https://github.com/Sv443/BetterYTM), a userscript that brings tons of features and UX improvements to YouTube Music.
 - [geniURL](https://github.com/Sv443/geniURL), an API for looking up and filtering song metadata from genius.com
 - [Userscript.ts](https://github.com/Sv443/Userscript.ts), a Template for making Userscripts in TypeScript with tons of modern utilities and comfort features.
-- [SvCoreLib](https://github.com/Sv443-Network/SvCoreLib), which is a Node.js package that is used in basically all of my JavaScript projects. It contains many miscellaneous features.
+- [SvCoreLib](https://github.com/Sv443-Network/SvCoreLib), which is a Node.js package that is used in basically all of my Node.js projects. It has many commonly used features.
 
 ---
 
