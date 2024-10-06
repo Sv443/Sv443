@@ -4,17 +4,21 @@ My interests are in open source software, server and web development, as well as
 Most of my projects are made with or for Javascript, Linux and Arduino.  
 Although I love working in a familiar environment, I'm always open to try out new technologies and want to continue learning and improving my skills.  
   
-### What I'm currently working on:
-- [JokeAPI](https://github.com/Sv443-Network/JokeAPI) is an API that serves a good variety of uniformly formatted jokes and offers lots of filtering methods.
+### Active projects:
 - [BetterYTM](https://github.com/Sv443/BetterYTM), a userscript that brings tons of features and UX improvements to YouTube Music.
 - [geniURL](https://github.com/Sv443/geniURL), an API for looking up and filtering song metadata from genius.com
-- [Userscript.ts](https://github.com/Sv443/Userscript.ts), a Template for making Userscripts in TypeScript with tons of modern utilities and comfort features.
-- [SvCoreLib](https://github.com/Sv443-Network/SvCoreLib), which is a Node.js package that is used in basically all of my Node.js projects. It has many commonly used features.
+- [YTInfoBot](https://github.com/Sv443/YTInfoBot), a free Discord bot that replies to YouTube links with crowdsourced info (like and dislike counts, video timestamps and desensationalized thumbnails and titles). 
+
+### Template repos:
+- [BetterYTM-Plugin-Template](https://github.com/Sv443/BetterYTM-Plugin-Template) - Template for creating a plugin using BetterYTM's API to further improve YouTube and YouTube Music.
+- [Userscript.ts](https://github.com/Sv443/Userscript.ts) - for creating Userscripts in TypeScript with tons of modern utilities and comfort features.
+- [Electron-Template](https://github.com/Sv443/Electron-Template) - TypeScript, Electron, Vite and ESLint template.
+- [React-Three-Electron-Template](https://github.com/Sv443/React-Three-Electron-Template) - Template for a React, MUI, Three.js, Electron, TypeScript and Vite project.
 
 ---
 
 My projects are free and open source so I rely on donations to keep my servers and domains running.  
-So if you like what I do, please consider [supporting my development.](https://github.com/sponsors/Sv443)  
+So if you like what I do, please consider [supporting my development.](https://github.com/sponsors/Sv443) Any help is greatly appreciated!
   
 <!-- TODO: add this workflow https://github.com/JamesIves/github-sponsors-readme-action -->
 <!-- Massive thanks to my sponsors ❤  
