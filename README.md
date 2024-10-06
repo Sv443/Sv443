@@ -18,7 +18,7 @@ Although I love working in a familiar environment, I'm always open to try out ne
 ---
 
 My projects are free and open source so I rely on donations to keep my servers and domains running.  
-So if you like what I do, please consider [supporting my development.](https://github.com/sponsors/Sv443) Any help is greatly appreciated!
+So if you like what I do, please consider [supporting.](https://github.com/sponsors/Sv443) Any help is greatly appreciated!
   
 <!-- TODO: add this workflow https://github.com/JamesIves/github-sponsors-readme-action -->
 <!-- Massive thanks to my sponsors ❤  
