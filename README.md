@@ -9,8 +9,8 @@ Although I love working in a familiar environment, I'm always open to try out ne
 - [geniURL](https://github.com/Sv443/geniURL), an API for looking up and filtering song metadata from genius.com
 - [YTInfoBot](https://github.com/Sv443/YTInfoBot), a free Discord bot that replies to YouTube links with crowdsourced info (like and dislike counts, video timestamps and desensationalized thumbnails and titles). 
 
-### Template repos:
-- [BetterYTM-Plugin-Template](https://github.com/Sv443/BetterYTM-Plugin-Template) - Template for creating a plugin using BetterYTM's API to further improve YouTube and YouTube Music.
+### Templates:
+- [BetterYTM-Plugin-Template](https://github.com/Sv443/BetterYTM-Plugin-Template) - Template for creating a plugin using [BetterYTM](https://github.com/Sv443/BetterYTM)'s API to further improve YouTube and YouTube Music.
 - [Userscript.ts](https://github.com/Sv443/Userscript.ts) - for creating Userscripts in TypeScript with tons of modern utilities and comfort features.
 - [Electron-Template](https://github.com/Sv443/Electron-Template) - TypeScript, Electron, Vite and ESLint template.
 - [React-Three-Electron-Template](https://github.com/Sv443/React-Three-Electron-Template) - Template for a React, MUI, Three.js, Electron, TypeScript and Vite project.
