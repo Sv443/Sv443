@@ -7,8 +7,8 @@ Although I love quickly getting something done in a familiar environment, I'm al
 ### My active projects:
 - [BetterYTM](https://github.com/Sv443/BetterYTM), a userscript that brings tons of features and UX improvements to YouTube Music.
 - [geniURL](https://github.com/Sv443/geniURL), which is an API for looking up and filtering song metadata from genius.com
-<!--- [YTInfoBot](https://github.com/Sv443/YTInfoBot), a free Discord bot that replies to YouTube links with crowdsourced info (like and dislike counts, video timestamps and desensationalized thumbnails and titles). -->
 - [Sv443-Network/UserUtils](https://github.com/Sv443-Network/UserUtils), a general purpose library containing tons of various utilities for userscripts and is used extensively by [BetterYTM](https://github.com/Sv443/BetterYTM)
+<!--- [YTInfoBot](https://github.com/Sv443/YTInfoBot), a free Discord bot that replies to YouTube links with crowdsourced info (like and dislike counts, video timestamps and desensationalized thumbnails and titles). -->
 
 ### My template repos:
 - [Userscript.ts](https://github.com/Sv443/Userscript.ts), a template for creating Userscripts in TypeScript with tons of modern utilities and comfort features.
