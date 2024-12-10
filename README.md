@@ -13,7 +13,7 @@ Although I love quickly getting something done in a familiar environment, I'm al
 ### My template repos:
 - [Userscript.ts](https://github.com/Sv443/Userscript.ts), a template for creating Userscripts in TypeScript with tons of modern utilities and comfort features.
 - [BetterYTM-Plugin-Template](https://github.com/Sv443/BetterYTM-Plugin-Template), used for creating a plugin using [BetterYTM](https://github.com/Sv443/BetterYTM)'s API to further improve YouTube and YouTube Music.
-- [Electron-Template](https://github.com/Sv443/Electron-Template), a TypeScript, Electron, Vite and ESLint template.
+- [Electron-Template](https://github.com/Sv443/Electron-Template), a barebone TypeScript, Electron, Vite and ESLint template.
 - [React-Three-Electron-Template](https://github.com/Sv443/React-Three-Electron-Template), an extensive template for React, MUI, Three.js, Electron, TypeScript and Vite projects.
 
 ---
