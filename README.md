@@ -1,16 +1,16 @@
 ### Hi there, I'm Sven
-I am a 22 year old full stack developer from Germany.  
+I am a 22 year old full stack developer from Germany and this is my portfolio of projects :)  
 My interests are in open source software, server and web development, as well as general electronic hardware and IT infrastructure.  
-Most of my projects are made with or for JavaScript, TypeScript, Linux and Arduino.  
-Although I love quickly getting something done in a familiar environment, I'm always open to try out new technologies and want to continue broadening my skills.  
+Most of my projects on here are made with or for JavaScript, TypeScript, Linux and Arduino (C++).  
   
-### My active projects:
+#### Active projects:
 - [BetterYTM](https://github.com/Sv443/BetterYTM), a userscript that brings tons of features and UX improvements to YouTube Music.
-- [geniURL](https://github.com/Sv443/geniURL), which is an API for looking up and filtering song metadata from genius.com
+- [geniURL](https://github.com/Sv443/geniURL), an API for looking up, normalizing and filtering song metadata from genius.com
 - [UserUtils](https://github.com/Sv443-Network/UserUtils), a general purpose library with tons of utilities for userscripts. It's used extensively by [BetterYTM](https://github.com/Sv443/BetterYTM)
 <!--- [YTInfoBot](https://github.com/Sv443/YTInfoBot), a free Discord bot that replies to YouTube links with crowdsourced info (like and dislike counts, video timestamps and desensationalized thumbnails and titles). -->
 
-### My template repos:
+#### Template repos:
+You might be interested in some of my template repositories to kickstart your projects - [check out all templates here.](https://github.com/Sv443?tab=repositories&q=&type=template)
 - [Userscript.ts](https://github.com/Sv443/Userscript.ts), a template for creating Userscripts in TypeScript with tons of modern utilities and comfort features.
 - [BetterYTM-Plugin-Template](https://github.com/Sv443/BetterYTM-Plugin-Template), used for creating a plugin using [BetterYTM](https://github.com/Sv443/BetterYTM)'s API to further improve YouTube and YouTube Music.
 - [Electron-Template](https://github.com/Sv443/Electron-Template), a barebone TypeScript, Electron, Vite and ESLint template.
@@ -18,8 +18,8 @@ Although I love quickly getting something done in a familiar environment, I'm al
 
 ---
 
-**My projects are free to use and open source so I rely on donations to keep my servers and domains running.**  
-If you like what I do, [please consider supporting my development.](https://github.com/sponsors/Sv443) Any help will mean the world to me ❤️
+**My projects are free to use and open source so I rely on contributions and donations to keep my servers and domains running.**  
+If you like what I do, please consider contributing code or [supporting the development financially](https://github.com/sponsors/Sv443) - any help will mean the world to me ❤️
   
 <!-- TODO: add this workflow https://github.com/JamesIves/github-sponsors-readme-action -->
 <!-- Massive thanks to my sponsors ❤  
@@ -28,10 +28,5 @@ If you like what I do, [please consider supporting my development.](https://gith
 
 --->
 
-If you want to reach out to me, you can [join my Discord server](https://dc.sv443.net/) or [send me an E-Mail.](mailto:%63%6F%6E%74%61%63%74%40%73%76%34%34%33%2E%6E%65%74)  
-<sub><b>Please don't go to the effort of spamming me with job offers or shady business requests, you will be ignored either way.</b></sub>
-
-<br>
-
-> ---
-> ### Links: [Homepage](https://sv443.net/) &bull; [npm](https://www.npmjs.com/~sv443)
+If you want to reach out to me, you can [send me an E-Mail](mailto:%63%6F%6E%74%61%63%74%40%73%76%34%34%33%2E%6E%65%74) or [join my Discord server.](https://dc.sv443.net/)  
+<sub><b>Please don't contact me with job offers or business requests or you will be ignored.</b></sub>
