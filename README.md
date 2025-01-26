@@ -10,9 +10,9 @@ Most of my projects on here are made with or for JavaScript, TypeScript, Linux a
 <!--- [YTInfoBot](https://github.com/Sv443/YTInfoBot), a free Discord bot that replies to YouTube links with crowdsourced info (like and dislike counts, video timestamps and desensationalized thumbnails and titles). -->
 
 #### Template repos:
-You might be interested in some of my template repositories to kickstart your projects - [check out all templates here.](https://github.com/Sv443?tab=repositories&q=&type=template)
+You might be interested in some of my template repos to kickstart your projects - [check out all my templates here.](https://github.com/Sv443?tab=repositories&q=&type=template)
 - [Userscript.ts](https://github.com/Sv443/Userscript.ts), a template for creating Userscripts in TypeScript with tons of modern utilities and comfort features.
-- [BetterYTM-Plugin-Template](https://github.com/Sv443/BetterYTM-Plugin-Template), used for creating a plugin using [BetterYTM](https://github.com/Sv443/BetterYTM)'s API to further improve YouTube and YouTube Music.
+- [BetterYTM-Plugin-Template](https://github.com/Sv443/BetterYTM-Plugin-Template), used for creating a plugin using [BetterYTM's API](https://github.com/Sv443/BetterYTM/blob/main/contributing.md#developing-a-plugin-that-interfaces-with-betterytm) to further improve YouTube and YouTube Music.
 - [Electron-Template](https://github.com/Sv443/Electron-Template), a barebone TypeScript, Electron, Vite and ESLint template.
 - [React-Three-Electron-Template](https://github.com/Sv443/React-Three-Electron-Template), an extensive template for React, MUI, Three.js, Electron, TypeScript and Vite projects.
 
@@ -20,7 +20,7 @@ You might be interested in some of my template repositories to kickstart your pr
 
 > [!NOTE]  
 > **My projects are free to use and open source so I rely on contributions and donations to keep my servers and domains running.**  
-> If you like what I do, please consider contributing code or [supporting the development financially](https://github.com/sponsors/Sv443)  
+> If you like what I do, please consider contributing code or [supporting the development financially.](https://github.com/sponsors/Sv443)  
 > Any help will mean the world to me ❤️
   
 <!-- TODO: add this workflow once I get some monthly sponsors: https://github.com/JamesIves/github-sponsors-readme-action -->
@@ -33,4 +33,4 @@ You might be interested in some of my template repositories to kickstart your pr
 ---
 
 If you want to reach out to me, you can [send me an E-Mail](mailto:%63%6F%6E%74%61%63%74%40%73%76%34%34%33%2E%6E%65%74) or [join my Discord server.](https://dc.sv443.net/)  
-<sub><b>Please don't contact me with job offers or business requests or you will be ignored.</b></sub>
+<sub><b>Please don't contact me with job offers or business requests; you will be ignored.</b></sub>
