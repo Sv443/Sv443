@@ -4,10 +4,11 @@ My interests are in open source software, server and web development, as well as
 Most of my projects on here are made with or for JavaScript, TypeScript, Linux and Arduino (C++).  
   
 #### Active projects:
+These are the projects I'm currently dedicating most of my time towards.
 - [BetterYTM](https://github.com/Sv443/BetterYTM), a userscript that brings tons of features and UX improvements to YouTube Music.
 - [geniURL](https://github.com/Sv443/geniURL), an API for looking up, normalizing and filtering song metadata from genius.com
-- [UserUtils](https://github.com/Sv443-Network/UserUtils), a general purpose library with tons of utilities for userscripts. It's used extensively by [BetterYTM](https://github.com/Sv443/BetterYTM)
-<!--- [YTInfoBot](https://github.com/Sv443/YTInfoBot), a free Discord bot that replies to YouTube links with crowdsourced info (like and dislike counts, video timestamps and desensationalized thumbnails and titles). -->
+- [UserUtils](https://github.com/Sv443-Network/UserUtils), a general purpose library with tons of utilities for userscripts and DOM projects alike.
+- [YTInfoBot](https://github.com/Sv443/YTInfoBot), a free Discord bot that replies to YouTube links with crowdsourced info (like and dislike counts, video timestamps and desensationalized thumbnails and titles).
 
 #### Template repos:
 You might be interested in some of my template repos to kickstart your projects - [check out all my templates here.](https://github.com/Sv443?tab=repositories&q=&type=template)
