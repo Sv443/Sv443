@@ -1,6 +1,6 @@
 ### Hi there, I'm Sven
 I am a 23 year old full stack developer from Germany and this is my portfolio of projects :)  
-My interests are in open source software, server and web development, as well as general electronic hardware and IT infrastructure.  
+My interests lie in open source software, server and web development, as well as general electronic hardware and IT infrastructure.  
 Most of my projects on here are made with or for JavaScript, TypeScript, Linux, Lua and C++ (Arduino).  
   
 #### Active projects:
