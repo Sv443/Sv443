@@ -6,15 +6,16 @@ Most of my projects on here are made with or for JavaScript, TypeScript, Linux, 
 #### Active projects:
 These are the projects I'm currently dedicating most of my time towards.
 - [BetterYTM](https://github.com/Sv443/BetterYTM), a userscript that brings tons of features and UX improvements to YouTube Music.
-- [geniURL](https://github.com/Sv443/geniURL), an API for looking up, normalizing and filtering song metadata from genius.com
 - [UserUtils](https://github.com/Sv443-Network/UserUtils), a general purpose library with tons of utilities for userscripts and DOM projects alike.
+- [geniURL](https://github.com/Sv443/geniURL), an API for looking up, normalizing and filtering song metadata from genius.com
 - [YTInfoBot](https://github.com/Sv443/YTInfoBot), a free Discord bot that replies to YouTube links with crowdsourced info (like and dislike counts, video timestamps and desensationalized thumbnails and titles).
 
 #### Template repos:
 You might be interested in some of my template repos to kickstart your projects - [check out all my templates here.](https://github.com/Sv443?tab=repositories&q=&type=template)
-- [Userscript.ts](https://github.com/Sv443/Userscript.ts), a template for creating Userscripts in TypeScript with tons of modern utilities and comfort features.
+- [TS-Lib-Template](https://github.com/Sv443/TS-Lib-Template), the culmination of my experience making countless libraries
+- [Userscript.ts](https://github.com/Sv443/Userscript.ts), a template for Userscripts in TypeScript with tons of modern utilities and comfort features.
 - [BetterYTM-Plugin-Template](https://github.com/Sv443/BetterYTM-Plugin-Template), used for creating a plugin using [BetterYTM's API](https://github.com/Sv443/BetterYTM/blob/main/contributing.md#developing-a-plugin-that-interfaces-with-betterytm) to further improve YouTube and YouTube Music.
-- [Electron-Template](https://github.com/Sv443/Electron-Template), a barebone TypeScript, Electron, Vite and ESLint template.
+- [Electron-Template](https://github.com/Sv443/Electron-Template), a barebones TypeScript, Electron, Vite and ESLint template.
 - [React-Three-Electron-Template](https://github.com/Sv443/React-Three-Electron-Template), an extensive template for React, MUI, Three.js, Electron, TypeScript and Vite projects.
 
 ---
