@@ -21,7 +21,7 @@ You might be interested in some of my template repos to kickstart your projects 
 ---
 
 > [!NOTE]  
-> **My projects are free to use and open source so I rely on contributions and donations to keep my servers and domains running.**  
+> **My projects are free to use and open source so I massively appreciate contributions and donations to keep my projects and domains running.**  
 > If you like what I do, please consider contributing code or [supporting the development financially.](https://github.com/sponsors/Sv443)  
 > Any help will mean the world to me ❤️
   
