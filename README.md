@@ -10,7 +10,7 @@ These are the projects I'm currently dedicating most of my time towards.
 - [CoreUtils](https://github.com/Sv443-Network/CoreUtils), a more platform-agnostic, general purpose library, which is the core of UserUtils.
 - [geniURL](https://github.com/Sv443/geniURL), an API for looking up, normalizing and filtering song metadata from genius.com
 - [YTInfoBot](https://github.com/Sv443/YTInfoBot), a free Discord bot that replies to YouTube links with crowdsourced info (like and dislike counts, video timestamps and desensationalized thumbnails and titles).
-- [Factory Symbols](https://github.com/the-drunken-cod/FactorySymbols), [Create: Strict Links](https://github.com/the-drunken-cod/Create-Strict-Links) and [Mob Mementos](https://github.com/the-drunken-cod/Mob-Mementos), which are some of my Minecraft mods.
+- [Symbols'n'Signs](https://github.com/the-drunken-cod/Symbols-n-Signs), [Create: Strict Links](https://github.com/the-drunken-cod/Create-Strict-Links) and [Mob Mementos](https://github.com/the-drunken-cod/Mob-Mementos), which are some of my Minecraft mods.
 
 #### Template repos:
 You might be interested in some of my template repos to kickstart your projects - [check out all my templates here.](https://github.com/Sv443?tab=repositories&q=&type=template)
